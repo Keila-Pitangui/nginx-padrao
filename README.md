@@ -1,5 +1,5 @@
 # padrao-instance
-Repositório criado para padronizar a criação de instânica na Oracle.
+Repositório criado para padronizar a criação de instância na Oracle.
 
 # Servidor Nginx com Proxy
 
